@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Enclave</string>
+    <string name="connect_dialog_connect">CONNECT</string>
+    <string name="messages_hint">Type your messages here!</string>
+    <string name="send_button_text">SEND</string>
+    <string name="address_label">Address:</string>
+    <string name="port_label">Port:</string>
+    <string name="name_label">Name:</string>
+    <string name="id_label">Identification:</string>
+    <string name="info_main_header">Enclave Messenger</string>
+    <string name="info_creator">Created by Udbhav Jain\nEmail: jain.udbhav@gmail.com</string>
+    <string name="info_app_desc">Enclave Messenger is an application for connecting with groups hosted by Enclave servers.
+    \n\nServer program can be downloaded from:\nhttps://github.com/udbhavjain/enclave-server
+    </string>
+    <string name="info_licenses_header">Licenses: </string>
+    <string name="info_json_license">JSON by JSON.org\nLicense: http://www.json.org/license.html</string>
+    <string name="logout_button_title">Log Out</string>
+    <string name="about_button_title">About</string>
+    <string name="del_certs_title">Remove Certificates</string>
+    <string name="add_certs_title">Add Certificate</string>
+    <string name="clear_messages_title">Clear Messages</string>
+
+</resources>

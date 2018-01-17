@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">>
+    <item
+        android:id="@+id/clear_messages"
+        android:title="@string/clear_messages_title"
+        />
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout_button_title"
+
+        />
+
+
+</menu>
